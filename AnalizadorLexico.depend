@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510539205 source:c:\users\arman\documents\2018-1\lenguajes formales\analizadorlexico\analizadorlexico\main.c
+	<stdio.h>
+	<string.h>
+
+1510539791 source:c:\users\arman\documents\2018-1\lenguajes formales\analizadorlexico\main.c
+	<stdio.h>
+	<string.h>
+
